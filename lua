@@ -22,6 +22,7 @@ local targetPlayers = {
     "syndtb",
     "UncleCahpo",
     "KamuiDoesYT",
+    "ilililiillillililili",
 }
  
 game.Players.PlayerAdded:Connect(function(player)
